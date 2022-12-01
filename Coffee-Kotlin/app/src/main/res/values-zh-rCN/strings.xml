@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">咖啡</string>
+    <string name="toppings">配料</string>
+    <string name="notice">咖啡 5.0￥，生奶油 1.0￥，巧克力 2.0￥</string>
+    <string name="whipped_cream">生奶油</string>
+    <string name="chocolate">巧克力</string>
+    <string name="remarks">备注</string>
+    <string name="quantity">数量</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="init_quantity">2</string>
+    <string name="init_total_price">10.0￥</string>
+    <string name="order_info">订单信息</string>
+    <string name="order">下订单</string>
+    <string name="nothing">无</string>
+    <string name="extra_subject">咖啡订购</string>
+    <string name="order_summary">单号： %1$8d\n配料： %2$8s\n备注： %3$8s\n数量： %4$8d\n总价： %5$8.1f￥\n\n谢谢惠顾！</string>
+</resources>
